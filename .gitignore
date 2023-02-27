@@ -25,4 +25,4 @@ hs_err_pid*
 #OUTPUT FOLDERS/FILES
 out
 .idea
-xadrez-nelio.iml
+*.iml
